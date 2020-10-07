@@ -10,7 +10,7 @@ import Register from './Register';
 
 function App() {
  return (
-  <Router basename='/ (repository)'>
+  <Router basename='/webtest-bali'>
     <Switch>
       <Route exact path='/'>
         <Home/>
